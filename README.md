@@ -28,7 +28,7 @@ $ make screenshot
 
 ![GitHub Logo](/png/cub.png)
 
-## Resourses
+## Resources
 
 * [Tutorial Cub3D](https://harm-smits.github.io/42docs/projects/cub3d)
 * [Full tutorial in English](https://lodev.org/cgtutor/raycasting.html)
